@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="forecast">Forecast</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="hottest">Hottest</string>
+
+    <string name="item_day">Day %1$d: %2$s</string>
+    <string name="item_rain_chance">Rain chance: %1$d%%</string>
+    <string name="item_temperature_range">Temperature range: %1$d\u00b0C - %2$d\u00b0C</string>
+
+    <string name="day_number">Day %1$d</string>
+    <string name="details_rain_chance">Rain chance: %1$d%%</string>
+    <string name="details_temperature_range">Temperature range: %1$d\u00b0C - %2$d\u00b0C</string>
+    <string name="details_sunrise">Sunrise: %1$s</string>
+    <string name="details_sunset">Sunset: %1$s</string>
+    <string name="download">Download</string>
+
+</resources>
